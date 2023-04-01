@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/"  deathanm2="gfx/death items.anm2" version="1">
+	<active id="1" name="Dice'D" description="Turn the tables" gfx="isaacd_pocket.png" maxcharges="4" quality="0" hidden="true" />
+</items>

@@ -1,0 +1,14 @@
+<players root="gfx/characters/costumes/" portraitroot="gfx/ui/stage/" nameimageroot="gfx/ui/boss/">
+	<player name="Isaac'D" hp="6"
+		skin="character_isaacd.png"
+		portrait="isaacd.png" 
+		nameimage="playername_isaacd.png"
+		birthright="Dicier"
+	/>
+	
+	<player bSkinParent="Isaac'D" name="Cain'D" hp="6"
+		skinColor="3" 
+		portrait="null.png" 
+		nameimage="playername_caind.png" 
+	/>
+</players>

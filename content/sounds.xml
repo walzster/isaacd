@@ -1,0 +1,9 @@
+<sounds root="sounds/">
+	<sound name="Pocket dice roll">
+		<sample weight="1" path="pocket dice roll.wav"/>
+	</sound>
+
+	<sound name="Pocket dice roll long">
+		<sample weight="1" path="pocket dice roll long.wav"/>
+	</sound>
+</sounds>

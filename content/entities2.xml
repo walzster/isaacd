@@ -1,0 +1,3 @@
+<entities anm2root="gfx/" version="5">
+    <entity anm2path="dice_heart.anm2" collisionMass="3" collisionRadius="12" friction="1" id="5" name="Dice Heart" numGridCollisionPoints="24" shadowSize="17" variant="816" subtype="0"/>
+</entities>
